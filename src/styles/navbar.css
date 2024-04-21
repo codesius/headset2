@@ -58,6 +58,10 @@ nav img:hover {
 .nav-mobile{
     display: none;
 }
+.nav-mobile img{
+    width: 35px;
+    height: 40px;
+}
 
 .nav-mobile-menu{
     opacity: 0;
