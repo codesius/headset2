@@ -110,7 +110,7 @@ hr{
     height: auto;
     clip-path: polygon(0 0, 100% 50%, 100% 100%, 0 100%);
     background-color: white;
-    color: rgb(216, 198, 185);
+    color: rgb(255, 255, 255);
     overflow: hidden;
     background: linear-gradient(315deg, rgb(27, 73, 90) 3%, rgb(31, 67, 80) 38%, rgb(14, 85, 110) 68%, rgb(0, 43, 58) 98%);
     animation: gradient 8s ease infinite;
